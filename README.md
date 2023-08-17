@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 My name is Andy Putratama and I'm a power system researcher/electrical engineer. I'm currently working at the Grenoble Electrical Engineering Lab (G2ELab), France.
@@ -7,6 +8,7 @@ You can find my some insight of my research projects at https://andyptr.github.i
 for any inquiries, you can contact me on [![Open Notebook](linkedin_icon.png)](https://www.linkedin.com/in/andyptr)
  or send me an email [![Open Notebook](email_icon.png)](mailto:muhammadandy.putratama@gmail.com)
 .
+-->
 
 <!--
 **andyptr/andyptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
